@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FireBird1998
+- 👋 Hi, I’m Ankit
 - 👀 I’m interested in coding, IOT and personal Finance
 - 🌱 I’m currently learning front end developement
 - 💞️ I’m looking to collaborate on anything web developement 
