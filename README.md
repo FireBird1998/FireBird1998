@@ -3,8 +3,14 @@
 - 🌱 I’m currently learning front end developement
 - 💞️ I’m looking to collaborate on anything web developement 
 - 📫 How to reach me dasankit1998.20@gmail.com
-- 
 
+
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/FireBird1998/FireBird1998/output/snake.svg" alt="Snake animation" />
+
+###
 <!---
 FireBird1998/FireBird1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
