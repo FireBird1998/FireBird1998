@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Ankit</h1>
 <h3 align="center">A passionate front-end developer from India. Currently learning MERN Stack</h3>
 
+<img align="right" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" alt="Coding GIF">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firebird1998&label=Profile%20views&color=0e75b6&style=flat" alt="firebird1998" /> </p>
+
 
 - 🔭 I’m currently working on [Bootstrap Resturant](https://github.com/FireBird1998/Resturant_Bootstrap)
 
 - 🌱 I’m currently learning **Full Stack development with MERN**
 
-- 👨‍💻 All of my projects are available at [https://github.com/FireBird1998](https://github.com/FireBird1998)
+- 👨‍💻 All of my projects are available at [GitHub Repository](https://github.com/FireBird1998)
 
 - 💬 Ask me about **react**
 
 - 📫 How to reach me **dasankit1998.20@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oYVN6zqJZY_TqISAnzh4L6OyrOq__G5m/view?usp=sharing](https://drive.google.com/file/d/1oYVN6zqJZY_TqISAnzh4L6OyrOq__G5m/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1oYVN6zqJZY_TqISAnzh4L6OyrOq__G5m/view?usp=sharing)
 
 - ⚡ Fun fact **I love new computer smell.**
 
@@ -28,13 +32,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=firebird1998&show_icons=true&locale=en&layout=compact&theme=dark" alt="firebird1998" /></p>
 
-<br clear="both">
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=firebird1998&show_icons=true&locale=en&theme=dark" alt="firebird1998" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=firebird1998&show_icons=true&locale=en&theme=dark" alt="firebird1998" /></p>
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=firebird1998&theme=dark" alt="firebird1998" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=firebird1998&theme=dark" alt="firebird1998" /></p>
 
 <!---
 FireBird1998/FireBird1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
