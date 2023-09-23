@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=firebird1998&label=Profile%20views&color=0e75b6&style=flat" alt="firebird1998" /> </p>
 
 
-- 🔭 I’m currently working on [Weather-App-V2](https://github.com/FireBird1998/Weather-App-V2)
+- 🔭 I’m currently working on [50 day mini project](https://github.com/FireBird1998/50-Day-udemy)
 
 - 🌱 I’m currently learning **Full Stack development with MERN**
 
